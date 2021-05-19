@@ -1,0 +1,20 @@
+{
+  "bids": [
+    {
+      "name":"Joao",
+      "bid": "0.01"
+    },
+    {
+      "name":"Maria",
+      "bid": "0.3"
+    },
+    {
+      "name":"Renata",
+      "bid": "0.01"
+    },
+    {
+      "name":"Pedro",
+      "bid": "12.34"
+    }
+  ]
+}

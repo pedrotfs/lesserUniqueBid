@@ -1,0 +1,4804 @@
+{
+  "bids": [
+    {
+      "name": "Auction Player1",
+      "bid": "32.21"
+    },
+    {
+      "name": "Auction Player2",
+      "bid": "45.21"
+    },
+    {
+      "name": "Auction Player3",
+      "bid": "59.0"
+    },
+    {
+      "name": "Auction Player4",
+      "bid": "76.64"
+    },
+    {
+      "name": "Auction Player5",
+      "bid": "32.98"
+    },
+    {
+      "name": "Auction Player6",
+      "bid": "32.88"
+    },
+    {
+      "name": "Auction Player7",
+      "bid": "99.94"
+    },
+    {
+      "name": "Auction Player8",
+      "bid": "64.08"
+    },
+    {
+      "name": "Auction Player9",
+      "bid": "13.85"
+    },
+    {
+      "name": "Auction Player10",
+      "bid": "63.13"
+    },
+    {
+      "name": "Auction Player11",
+      "bid": "74.44"
+    },
+    {
+      "name": "Auction Player12",
+      "bid": "57.98"
+    },
+    {
+      "name": "Auction Player13",
+      "bid": "50.56"
+    },
+    {
+      "name": "Auction Player14",
+      "bid": "71.94"
+    },
+    {
+      "name": "Auction Player15",
+      "bid": "75.24"
+    },
+    {
+      "name": "Auction Player16",
+      "bid": "59.0"
+    },
+    {
+      "name": "Auction Player17",
+      "bid": "27.85"
+    },
+    {
+      "name": "Auction Player18",
+      "bid": "5.72"
+    },
+    {
+      "name": "Auction Player19",
+      "bid": "81.1"
+    },
+    {
+      "name": "Auction Player20",
+      "bid": "18.38"
+    },
+    {
+      "name": "Auction Player21",
+      "bid": "78.34"
+    },
+    {
+      "name": "Auction Player22",
+      "bid": "70.55"
+    },
+    {
+      "name": "Auction Player23",
+      "bid": "78.56"
+    },
+    {
+      "name": "Auction Player24",
+      "bid": "22.26"
+    },
+    {
+      "name": "Auction Player25",
+      "bid": "36.66"
+    },
+    {
+      "name": "Auction Player26",
+      "bid": "58.2"
+    },
+    {
+      "name": "Auction Player27",
+      "bid": "91.4"
+    },
+    {
+      "name": "Auction Player28",
+      "bid": "93.82"
+    },
+    {
+      "name": "Auction Player29",
+      "bid": "84.38"
+    },
+    {
+      "name": "Auction Player30",
+      "bid": "92.46"
+    },
+    {
+      "name": "Auction Player31",
+      "bid": "41.14"
+    },
+    {
+      "name": "Auction Player32",
+      "bid": "34.69"
+    },
+    {
+      "name": "Auction Player33",
+      "bid": "35.86"
+    },
+    {
+      "name": "Auction Player34",
+      "bid": "92.3"
+    },
+    {
+      "name": "Auction Player35",
+      "bid": "39.22"
+    },
+    {
+      "name": "Auction Player36",
+      "bid": "8.07"
+    },
+    {
+      "name": "Auction Player37",
+      "bid": "89.87"
+    },
+    {
+      "name": "Auction Player38",
+      "bid": "88.42"
+    },
+    {
+      "name": "Auction Player39",
+      "bid": "90.88"
+    },
+    {
+      "name": "Auction Player40",
+      "bid": "24.92"
+    },
+    {
+      "name": "Auction Player41",
+      "bid": "95.28"
+    },
+    {
+      "name": "Auction Player42",
+      "bid": "28.34"
+    },
+    {
+      "name": "Auction Player43",
+      "bid": "19.44"
+    },
+    {
+      "name": "Auction Player44",
+      "bid": "77.49"
+    },
+    {
+      "name": "Auction Player45",
+      "bid": "65.45"
+    },
+    {
+      "name": "Auction Player46",
+      "bid": "19.98"
+    },
+    {
+      "name": "Auction Player47",
+      "bid": "88.81"
+    },
+    {
+      "name": "Auction Player48",
+      "bid": "16.88"
+    },
+    {
+      "name": "Auction Player49",
+      "bid": "98.08"
+    },
+    {
+      "name": "Auction Player50",
+      "bid": "30.87"
+    },
+    {
+      "name": "Auction Player51",
+      "bid": "27.42"
+    },
+    {
+      "name": "Auction Player52",
+      "bid": "41.26"
+    },
+    {
+      "name": "Auction Player53",
+      "bid": "57.32"
+    },
+    {
+      "name": "Auction Player54",
+      "bid": "99.37"
+    },
+    {
+      "name": "Auction Player55",
+      "bid": "22.71"
+    },
+    {
+      "name": "Auction Player56",
+      "bid": "16.34"
+    },
+    {
+      "name": "Auction Player57",
+      "bid": "47.57"
+    },
+    {
+      "name": "Auction Player58",
+      "bid": "12.09"
+    },
+    {
+      "name": "Auction Player59",
+      "bid": "84.3"
+    },
+    {
+      "name": "Auction Player60",
+      "bid": "13.04"
+    },
+    {
+      "name": "Auction Player61",
+      "bid": "60.34"
+    },
+    {
+      "name": "Auction Player62",
+      "bid": "58.57"
+    },
+    {
+      "name": "Auction Player63",
+      "bid": "57.02"
+    },
+    {
+      "name": "Auction Player64",
+      "bid": "22.79"
+    },
+    {
+      "name": "Auction Player65",
+      "bid": "13.97"
+    },
+    {
+      "name": "Auction Player66",
+      "bid": "12.29"
+    },
+    {
+      "name": "Auction Player67",
+      "bid": "40.54"
+    },
+    {
+      "name": "Auction Player68",
+      "bid": "77.0"
+    },
+    {
+      "name": "Auction Player69",
+      "bid": "60.72"
+    },
+    {
+      "name": "Auction Player70",
+      "bid": "26.65"
+    },
+    {
+      "name": "Auction Player71",
+      "bid": "80.18"
+    },
+    {
+      "name": "Auction Player72",
+      "bid": "51.65"
+    },
+    {
+      "name": "Auction Player73",
+      "bid": "38.88"
+    },
+    {
+      "name": "Auction Player74",
+      "bid": "85.13"
+    },
+    {
+      "name": "Auction Player75",
+      "bid": "38.42"
+    },
+    {
+      "name": "Auction Player76",
+      "bid": "33.11"
+    },
+    {
+      "name": "Auction Player77",
+      "bid": "71.75"
+    },
+    {
+      "name": "Auction Player78",
+      "bid": "78.04"
+    },
+    {
+      "name": "Auction Player79",
+      "bid": "87.72"
+    },
+    {
+      "name": "Auction Player80",
+      "bid": "86.13"
+    },
+    {
+      "name": "Auction Player81",
+      "bid": "35.61"
+    },
+    {
+      "name": "Auction Player82",
+      "bid": "87.1"
+    },
+    {
+      "name": "Auction Player83",
+      "bid": "72.13"
+    },
+    {
+      "name": "Auction Player84",
+      "bid": "7.34"
+    },
+    {
+      "name": "Auction Player85",
+      "bid": "53.33"
+    },
+    {
+      "name": "Auction Player86",
+      "bid": "60.57"
+    },
+    {
+      "name": "Auction Player87",
+      "bid": "1.09"
+    },
+    {
+      "name": "Auction Player88",
+      "bid": "53.68"
+    },
+    {
+      "name": "Auction Player89",
+      "bid": "98.91"
+    },
+    {
+      "name": "Auction Player90",
+      "bid": "81.83"
+    },
+    {
+      "name": "Auction Player91",
+      "bid": "20.17"
+    },
+    {
+      "name": "Auction Player92",
+      "bid": "29.91"
+    },
+    {
+      "name": "Auction Player93",
+      "bid": "8.68"
+    },
+    {
+      "name": "Auction Player94",
+      "bid": "8.55"
+    },
+    {
+      "name": "Auction Player95",
+      "bid": "19.05"
+    },
+    {
+      "name": "Auction Player96",
+      "bid": "22.52"
+    },
+    {
+      "name": "Auction Player97",
+      "bid": "74.76"
+    },
+    {
+      "name": "Auction Player98",
+      "bid": "42.49"
+    },
+    {
+      "name": "Auction Player99",
+      "bid": "26.97"
+    },
+    {
+      "name": "Auction Player100",
+      "bid": "0.6"
+    },
+    {
+      "name": "Auction Player101",
+      "bid": "89.88"
+    },
+    {
+      "name": "Auction Player102",
+      "bid": "5.04"
+    },
+    {
+      "name": "Auction Player103",
+      "bid": "82.61"
+    },
+    {
+      "name": "Auction Player104",
+      "bid": "60.62"
+    },
+    {
+      "name": "Auction Player105",
+      "bid": "21.8"
+    },
+    {
+      "name": "Auction Player106",
+      "bid": "26.99"
+    },
+    {
+      "name": "Auction Player107",
+      "bid": "56.22"
+    },
+    {
+      "name": "Auction Player108",
+      "bid": "23.12"
+    },
+    {
+      "name": "Auction Player109",
+      "bid": "77.18"
+    },
+    {
+      "name": "Auction Player110",
+      "bid": "86.95"
+    },
+    {
+      "name": "Auction Player111",
+      "bid": "74.41"
+    },
+    {
+      "name": "Auction Player112",
+      "bid": "65.19"
+    },
+    {
+      "name": "Auction Player113",
+      "bid": "60.15"
+    },
+    {
+      "name": "Auction Player114",
+      "bid": "30.61"
+    },
+    {
+      "name": "Auction Player115",
+      "bid": "20.39"
+    },
+    {
+      "name": "Auction Player116",
+      "bid": "3.85"
+    },
+    {
+      "name": "Auction Player117",
+      "bid": "11.5"
+    },
+    {
+      "name": "Auction Player118",
+      "bid": "95.95"
+    },
+    {
+      "name": "Auction Player119",
+      "bid": "55.35"
+    },
+    {
+      "name": "Auction Player120",
+      "bid": "98.34"
+    },
+    {
+      "name": "Auction Player121",
+      "bid": "10.54"
+    },
+    {
+      "name": "Auction Player122",
+      "bid": "18.18"
+    },
+    {
+      "name": "Auction Player123",
+      "bid": "69.26"
+    },
+    {
+      "name": "Auction Player124",
+      "bid": "40.62"
+    },
+    {
+      "name": "Auction Player125",
+      "bid": "52.81"
+    },
+    {
+      "name": "Auction Player126",
+      "bid": "63.88"
+    },
+    {
+      "name": "Auction Player127",
+      "bid": "77.05"
+    },
+    {
+      "name": "Auction Player128",
+      "bid": "49.13"
+    },
+    {
+      "name": "Auction Player129",
+      "bid": "61.46"
+    },
+    {
+      "name": "Auction Player130",
+      "bid": "88.71"
+    },
+    {
+      "name": "Auction Player131",
+      "bid": "4.34"
+    },
+    {
+      "name": "Auction Player132",
+      "bid": "89.13"
+    },
+    {
+      "name": "Auction Player133",
+      "bid": "39.16"
+    },
+    {
+      "name": "Auction Player134",
+      "bid": "66.19"
+    },
+    {
+      "name": "Auction Player135",
+      "bid": "86.38"
+    },
+    {
+      "name": "Auction Player136",
+      "bid": "13.32"
+    },
+    {
+      "name": "Auction Player137",
+      "bid": "60.25"
+    },
+    {
+      "name": "Auction Player138",
+      "bid": "1.8"
+    },
+    {
+      "name": "Auction Player139",
+      "bid": "69.03"
+    },
+    {
+      "name": "Auction Player140",
+      "bid": "69.32"
+    },
+    {
+      "name": "Auction Player141",
+      "bid": "54.26"
+    },
+    {
+      "name": "Auction Player142",
+      "bid": "55.39"
+    },
+    {
+      "name": "Auction Player143",
+      "bid": "31.01"
+    },
+    {
+      "name": "Auction Player144",
+      "bid": "61.95"
+    },
+    {
+      "name": "Auction Player145",
+      "bid": "89.34"
+    },
+    {
+      "name": "Auction Player146",
+      "bid": "85.75"
+    },
+    {
+      "name": "Auction Player147",
+      "bid": "56.71"
+    },
+    {
+      "name": "Auction Player148",
+      "bid": "91.49"
+    },
+    {
+      "name": "Auction Player149",
+      "bid": "14.94"
+    },
+    {
+      "name": "Auction Player150",
+      "bid": "92.44"
+    },
+    {
+      "name": "Auction Player151",
+      "bid": "31.27"
+    },
+    {
+      "name": "Auction Player152",
+      "bid": "62.97"
+    },
+    {
+      "name": "Auction Player153",
+      "bid": "68.92"
+    },
+    {
+      "name": "Auction Player154",
+      "bid": "47.42"
+    },
+    {
+      "name": "Auction Player155",
+      "bid": "97.56"
+    },
+    {
+      "name": "Auction Player156",
+      "bid": "25.39"
+    },
+    {
+      "name": "Auction Player157",
+      "bid": "25.88"
+    },
+    {
+      "name": "Auction Player158",
+      "bid": "83.96"
+    },
+    {
+      "name": "Auction Player159",
+      "bid": "12.17"
+    },
+    {
+      "name": "Auction Player160",
+      "bid": "40.41"
+    },
+    {
+      "name": "Auction Player161",
+      "bid": "99.23"
+    },
+    {
+      "name": "Auction Player162",
+      "bid": "98.67"
+    },
+    {
+      "name": "Auction Player163",
+      "bid": "84.98"
+    },
+    {
+      "name": "Auction Player164",
+      "bid": "79.76"
+    },
+    {
+      "name": "Auction Player165",
+      "bid": "31.48"
+    },
+    {
+      "name": "Auction Player166",
+      "bid": "72.38"
+    },
+    {
+      "name": "Auction Player167",
+      "bid": "30.23"
+    },
+    {
+      "name": "Auction Player168",
+      "bid": "18.58"
+    },
+    {
+      "name": "Auction Player169",
+      "bid": "48.5"
+    },
+    {
+      "name": "Auction Player170",
+      "bid": "26.39"
+    },
+    {
+      "name": "Auction Player171",
+      "bid": "62.81"
+    },
+    {
+      "name": "Auction Player172",
+      "bid": "0.86"
+    },
+    {
+      "name": "Auction Player173",
+      "bid": "47.99"
+    },
+    {
+      "name": "Auction Player174",
+      "bid": "66.29"
+    },
+    {
+      "name": "Auction Player175",
+      "bid": "10.98"
+    },
+    {
+      "name": "Auction Player176",
+      "bid": "21.89"
+    },
+    {
+      "name": "Auction Player177",
+      "bid": "41.62"
+    },
+    {
+      "name": "Auction Player178",
+      "bid": "80.73"
+    },
+    {
+      "name": "Auction Player179",
+      "bid": "68.17"
+    },
+    {
+      "name": "Auction Player180",
+      "bid": "89.64"
+    },
+    {
+      "name": "Auction Player181",
+      "bid": "73.27"
+    },
+    {
+      "name": "Auction Player182",
+      "bid": "31.51"
+    },
+    {
+      "name": "Auction Player183",
+      "bid": "65.23"
+    },
+    {
+      "name": "Auction Player184",
+      "bid": "69.07"
+    },
+    {
+      "name": "Auction Player185",
+      "bid": "64.17"
+    },
+    {
+      "name": "Auction Player186",
+      "bid": "44.62"
+    },
+    {
+      "name": "Auction Player187",
+      "bid": "75.49"
+    },
+    {
+      "name": "Auction Player188",
+      "bid": "44.41"
+    },
+    {
+      "name": "Auction Player189",
+      "bid": "91.31"
+    },
+    {
+      "name": "Auction Player190",
+      "bid": "92.03"
+    },
+    {
+      "name": "Auction Player191",
+      "bid": "8.93"
+    },
+    {
+      "name": "Auction Player192",
+      "bid": "38.65"
+    },
+    {
+      "name": "Auction Player193",
+      "bid": "89.72"
+    },
+    {
+      "name": "Auction Player194",
+      "bid": "97.53"
+    },
+    {
+      "name": "Auction Player195",
+      "bid": "17.12"
+    },
+    {
+      "name": "Auction Player196",
+      "bid": "39.25"
+    },
+    {
+      "name": "Auction Player197",
+      "bid": "45.92"
+    },
+    {
+      "name": "Auction Player198",
+      "bid": "79.17"
+    },
+    {
+      "name": "Auction Player199",
+      "bid": "46.86"
+    },
+    {
+      "name": "Auction Player200",
+      "bid": "15.33"
+    },
+    {
+      "name": "Auction Player201",
+      "bid": "73.15"
+    },
+    {
+      "name": "Auction Player202",
+      "bid": "18.41"
+    },
+    {
+      "name": "Auction Player203",
+      "bid": "31.86"
+    },
+    {
+      "name": "Auction Player204",
+      "bid": "79.88"
+    },
+    {
+      "name": "Auction Player205",
+      "bid": "44.8"
+    },
+    {
+      "name": "Auction Player206",
+      "bid": "13.91"
+    },
+    {
+      "name": "Auction Player207",
+      "bid": "17.73"
+    },
+    {
+      "name": "Auction Player208",
+      "bid": "55.44"
+    },
+    {
+      "name": "Auction Player209",
+      "bid": "94.64"
+    },
+    {
+      "name": "Auction Player210",
+      "bid": "55.75"
+    },
+    {
+      "name": "Auction Player211",
+      "bid": "87.14"
+    },
+    {
+      "name": "Auction Player212",
+      "bid": "59.96"
+    },
+    {
+      "name": "Auction Player213",
+      "bid": "70.54"
+    },
+    {
+      "name": "Auction Player214",
+      "bid": "69.19"
+    },
+    {
+      "name": "Auction Player215",
+      "bid": "57.89"
+    },
+    {
+      "name": "Auction Player216",
+      "bid": "35.71"
+    },
+    {
+      "name": "Auction Player217",
+      "bid": "8.96"
+    },
+    {
+      "name": "Auction Player218",
+      "bid": "50.95"
+    },
+    {
+      "name": "Auction Player219",
+      "bid": "32.53"
+    },
+    {
+      "name": "Auction Player220",
+      "bid": "19.95"
+    },
+    {
+      "name": "Auction Player221",
+      "bid": "68.8"
+    },
+    {
+      "name": "Auction Player222",
+      "bid": "40.94"
+    },
+    {
+      "name": "Auction Player223",
+      "bid": "12.48"
+    },
+    {
+      "name": "Auction Player224",
+      "bid": "37.48"
+    },
+    {
+      "name": "Auction Player225",
+      "bid": "52.64"
+    },
+    {
+      "name": "Auction Player226",
+      "bid": "94.28"
+    },
+    {
+      "name": "Auction Player227",
+      "bid": "21.26"
+    },
+    {
+      "name": "Auction Player228",
+      "bid": "35.0"
+    },
+    {
+      "name": "Auction Player229",
+      "bid": "56.59"
+    },
+    {
+      "name": "Auction Player230",
+      "bid": "2.76"
+    },
+    {
+      "name": "Auction Player231",
+      "bid": "93.25"
+    },
+    {
+      "name": "Auction Player232",
+      "bid": "84.88"
+    },
+    {
+      "name": "Auction Player233",
+      "bid": "28.96"
+    },
+    {
+      "name": "Auction Player234",
+      "bid": "8.29"
+    },
+    {
+      "name": "Auction Player235",
+      "bid": "41.47"
+    },
+    {
+      "name": "Auction Player236",
+      "bid": "14.08"
+    },
+    {
+      "name": "Auction Player237",
+      "bid": "65.7"
+    },
+    {
+      "name": "Auction Player238",
+      "bid": "61.67"
+    },
+    {
+      "name": "Auction Player239",
+      "bid": "31.63"
+    },
+    {
+      "name": "Auction Player240",
+      "bid": "40.72"
+    },
+    {
+      "name": "Auction Player241",
+      "bid": "1.07"
+    },
+    {
+      "name": "Auction Player242",
+      "bid": "86.37"
+    },
+    {
+      "name": "Auction Player243",
+      "bid": "86.78"
+    },
+    {
+      "name": "Auction Player244",
+      "bid": "48.39"
+    },
+    {
+      "name": "Auction Player245",
+      "bid": "48.39"
+    },
+    {
+      "name": "Auction Player246",
+      "bid": "36.58"
+    },
+    {
+      "name": "Auction Player247",
+      "bid": "52.35"
+    },
+    {
+      "name": "Auction Player248",
+      "bid": "5.82"
+    },
+    {
+      "name": "Auction Player249",
+      "bid": "42.36"
+    },
+    {
+      "name": "Auction Player250",
+      "bid": "16.68"
+    },
+    {
+      "name": "Auction Player251",
+      "bid": "93.37"
+    },
+    {
+      "name": "Auction Player252",
+      "bid": "25.34"
+    },
+    {
+      "name": "Auction Player253",
+      "bid": "85.6"
+    },
+    {
+      "name": "Auction Player254",
+      "bid": "27.52"
+    },
+    {
+      "name": "Auction Player255",
+      "bid": "27.2"
+    },
+    {
+      "name": "Auction Player256",
+      "bid": "39.02"
+    },
+    {
+      "name": "Auction Player257",
+      "bid": "51.55"
+    },
+    {
+      "name": "Auction Player258",
+      "bid": "78.56"
+    },
+    {
+      "name": "Auction Player259",
+      "bid": "91.2"
+    },
+    {
+      "name": "Auction Player260",
+      "bid": "49.28"
+    },
+    {
+      "name": "Auction Player261",
+      "bid": "13.47"
+    },
+    {
+      "name": "Auction Player262",
+      "bid": "45.28"
+    },
+    {
+      "name": "Auction Player263",
+      "bid": "58.1"
+    },
+    {
+      "name": "Auction Player264",
+      "bid": "54.47"
+    },
+    {
+      "name": "Auction Player265",
+      "bid": "19.34"
+    },
+    {
+      "name": "Auction Player266",
+      "bid": "95.61"
+    },
+    {
+      "name": "Auction Player267",
+      "bid": "9.78"
+    },
+    {
+      "name": "Auction Player268",
+      "bid": "84.16"
+    },
+    {
+      "name": "Auction Player269",
+      "bid": "93.61"
+    },
+    {
+      "name": "Auction Player270",
+      "bid": "12.95"
+    },
+    {
+      "name": "Auction Player271",
+      "bid": "42.78"
+    },
+    {
+      "name": "Auction Player272",
+      "bid": "25.45"
+    },
+    {
+      "name": "Auction Player273",
+      "bid": "15.35"
+    },
+    {
+      "name": "Auction Player274",
+      "bid": "25.26"
+    },
+    {
+      "name": "Auction Player275",
+      "bid": "86.64"
+    },
+    {
+      "name": "Auction Player276",
+      "bid": "14.82"
+    },
+    {
+      "name": "Auction Player277",
+      "bid": "30.86"
+    },
+    {
+      "name": "Auction Player278",
+      "bid": "62.68"
+    },
+    {
+      "name": "Auction Player279",
+      "bid": "6.39"
+    },
+    {
+      "name": "Auction Player280",
+      "bid": "53.83"
+    },
+    {
+      "name": "Auction Player281",
+      "bid": "26.2"
+    },
+    {
+      "name": "Auction Player282",
+      "bid": "97.7"
+    },
+    {
+      "name": "Auction Player283",
+      "bid": "95.0"
+    },
+    {
+      "name": "Auction Player284",
+      "bid": "50.55"
+    },
+    {
+      "name": "Auction Player285",
+      "bid": "71.03"
+    },
+    {
+      "name": "Auction Player286",
+      "bid": "37.4"
+    },
+    {
+      "name": "Auction Player287",
+      "bid": "18.08"
+    },
+    {
+      "name": "Auction Player288",
+      "bid": "74.68"
+    },
+    {
+      "name": "Auction Player289",
+      "bid": "93.69"
+    },
+    {
+      "name": "Auction Player290",
+      "bid": "42.43"
+    },
+    {
+      "name": "Auction Player291",
+      "bid": "3.47"
+    },
+    {
+      "name": "Auction Player292",
+      "bid": "42.95"
+    },
+    {
+      "name": "Auction Player293",
+      "bid": "21.06"
+    },
+    {
+      "name": "Auction Player294",
+      "bid": "42.12"
+    },
+    {
+      "name": "Auction Player295",
+      "bid": "45.43"
+    },
+    {
+      "name": "Auction Player296",
+      "bid": "19.67"
+    },
+    {
+      "name": "Auction Player297",
+      "bid": "85.43"
+    },
+    {
+      "name": "Auction Player298",
+      "bid": "76.07"
+    },
+    {
+      "name": "Auction Player299",
+      "bid": "52.51"
+    },
+    {
+      "name": "Auction Player300",
+      "bid": "31.1"
+    },
+    {
+      "name": "Auction Player301",
+      "bid": "61.37"
+    },
+    {
+      "name": "Auction Player302",
+      "bid": "2.69"
+    },
+    {
+      "name": "Auction Player303",
+      "bid": "41.79"
+    },
+    {
+      "name": "Auction Player304",
+      "bid": "21.85"
+    },
+    {
+      "name": "Auction Player305",
+      "bid": "76.57"
+    },
+    {
+      "name": "Auction Player306",
+      "bid": "32.14"
+    },
+    {
+      "name": "Auction Player307",
+      "bid": "2.93"
+    },
+    {
+      "name": "Auction Player308",
+      "bid": "77.85"
+    },
+    {
+      "name": "Auction Player309",
+      "bid": "75.11"
+    },
+    {
+      "name": "Auction Player310",
+      "bid": "44.79"
+    },
+    {
+      "name": "Auction Player311",
+      "bid": "6.95"
+    },
+    {
+      "name": "Auction Player312",
+      "bid": "5.06"
+    },
+    {
+      "name": "Auction Player313",
+      "bid": "34.41"
+    },
+    {
+      "name": "Auction Player314",
+      "bid": "77.73"
+    },
+    {
+      "name": "Auction Player315",
+      "bid": "67.87"
+    },
+    {
+      "name": "Auction Player316",
+      "bid": "74.64"
+    },
+    {
+      "name": "Auction Player317",
+      "bid": "1.92"
+    },
+    {
+      "name": "Auction Player318",
+      "bid": "65.52"
+    },
+    {
+      "name": "Auction Player319",
+      "bid": "54.76"
+    },
+    {
+      "name": "Auction Player320",
+      "bid": "82.09"
+    },
+    {
+      "name": "Auction Player321",
+      "bid": "42.31"
+    },
+    {
+      "name": "Auction Player322",
+      "bid": "37.11"
+    },
+    {
+      "name": "Auction Player323",
+      "bid": "35.87"
+    },
+    {
+      "name": "Auction Player324",
+      "bid": "16.36"
+    },
+    {
+      "name": "Auction Player325",
+      "bid": "33.33"
+    },
+    {
+      "name": "Auction Player326",
+      "bid": "47.08"
+    },
+    {
+      "name": "Auction Player327",
+      "bid": "27.14"
+    },
+    {
+      "name": "Auction Player328",
+      "bid": "49.79"
+    },
+    {
+      "name": "Auction Player329",
+      "bid": "82.18"
+    },
+    {
+      "name": "Auction Player330",
+      "bid": "85.87"
+    },
+    {
+      "name": "Auction Player331",
+      "bid": "53.69"
+    },
+    {
+      "name": "Auction Player332",
+      "bid": "66.47"
+    },
+    {
+      "name": "Auction Player333",
+      "bid": "10.45"
+    },
+    {
+      "name": "Auction Player334",
+      "bid": "83.08"
+    },
+    {
+      "name": "Auction Player335",
+      "bid": "69.03"
+    },
+    {
+      "name": "Auction Player336",
+      "bid": "92.49"
+    },
+    {
+      "name": "Auction Player337",
+      "bid": "48.12"
+    },
+    {
+      "name": "Auction Player338",
+      "bid": "3.23"
+    },
+    {
+      "name": "Auction Player339",
+      "bid": "61.6"
+    },
+    {
+      "name": "Auction Player340",
+      "bid": "36.4"
+    },
+    {
+      "name": "Auction Player341",
+      "bid": "73.17"
+    },
+    {
+      "name": "Auction Player342",
+      "bid": "41.36"
+    },
+    {
+      "name": "Auction Player343",
+      "bid": "50.37"
+    },
+    {
+      "name": "Auction Player344",
+      "bid": "36.52"
+    },
+    {
+      "name": "Auction Player345",
+      "bid": "8.01"
+    },
+    {
+      "name": "Auction Player346",
+      "bid": "25.12"
+    },
+    {
+      "name": "Auction Player347",
+      "bid": "7.38"
+    },
+    {
+      "name": "Auction Player348",
+      "bid": "51.42"
+    },
+    {
+      "name": "Auction Player349",
+      "bid": "10.33"
+    },
+    {
+      "name": "Auction Player350",
+      "bid": "66.96"
+    },
+    {
+      "name": "Auction Player351",
+      "bid": "58.4"
+    },
+    {
+      "name": "Auction Player352",
+      "bid": "91.7"
+    },
+    {
+      "name": "Auction Player353",
+      "bid": "65.28"
+    },
+    {
+      "name": "Auction Player354",
+      "bid": "65.53"
+    },
+    {
+      "name": "Auction Player355",
+      "bid": "48.59"
+    },
+    {
+      "name": "Auction Player356",
+      "bid": "38.66"
+    },
+    {
+      "name": "Auction Player357",
+      "bid": "99.27"
+    },
+    {
+      "name": "Auction Player358",
+      "bid": "31.4"
+    },
+    {
+      "name": "Auction Player359",
+      "bid": "71.73"
+    },
+    {
+      "name": "Auction Player360",
+      "bid": "85.2"
+    },
+    {
+      "name": "Auction Player361",
+      "bid": "48.96"
+    },
+    {
+      "name": "Auction Player362",
+      "bid": "72.1"
+    },
+    {
+      "name": "Auction Player363",
+      "bid": "56.09"
+    },
+    {
+      "name": "Auction Player364",
+      "bid": "80.39"
+    },
+    {
+      "name": "Auction Player365",
+      "bid": "83.31"
+    },
+    {
+      "name": "Auction Player366",
+      "bid": "48.89"
+    },
+    {
+      "name": "Auction Player367",
+      "bid": "78.44"
+    },
+    {
+      "name": "Auction Player368",
+      "bid": "73.91"
+    },
+    {
+      "name": "Auction Player369",
+      "bid": "59.48"
+    },
+    {
+      "name": "Auction Player370",
+      "bid": "71.19"
+    },
+    {
+      "name": "Auction Player371",
+      "bid": "93.9"
+    },
+    {
+      "name": "Auction Player372",
+      "bid": "98.35"
+    },
+    {
+      "name": "Auction Player373",
+      "bid": "60.77"
+    },
+    {
+      "name": "Auction Player374",
+      "bid": "48.76"
+    },
+    {
+      "name": "Auction Player375",
+      "bid": "20.23"
+    },
+    {
+      "name": "Auction Player376",
+      "bid": "15.13"
+    },
+    {
+      "name": "Auction Player377",
+      "bid": "57.11"
+    },
+    {
+      "name": "Auction Player378",
+      "bid": "67.28"
+    },
+    {
+      "name": "Auction Player379",
+      "bid": "81.08"
+    },
+    {
+      "name": "Auction Player380",
+      "bid": "55.97"
+    },
+    {
+      "name": "Auction Player381",
+      "bid": "15.0"
+    },
+    {
+      "name": "Auction Player382",
+      "bid": "56.46"
+    },
+    {
+      "name": "Auction Player383",
+      "bid": "16.88"
+    },
+    {
+      "name": "Auction Player384",
+      "bid": "77.62"
+    },
+    {
+      "name": "Auction Player385",
+      "bid": "15.12"
+    },
+    {
+      "name": "Auction Player386",
+      "bid": "17.96"
+    },
+    {
+      "name": "Auction Player387",
+      "bid": "20.39"
+    },
+    {
+      "name": "Auction Player388",
+      "bid": "91.98"
+    },
+    {
+      "name": "Auction Player389",
+      "bid": "70.62"
+    },
+    {
+      "name": "Auction Player390",
+      "bid": "39.44"
+    },
+    {
+      "name": "Auction Player391",
+      "bid": "23.1"
+    },
+    {
+      "name": "Auction Player392",
+      "bid": "79.85"
+    },
+    {
+      "name": "Auction Player393",
+      "bid": "16.55"
+    },
+    {
+      "name": "Auction Player394",
+      "bid": "79.12"
+    },
+    {
+      "name": "Auction Player395",
+      "bid": "77.5"
+    },
+    {
+      "name": "Auction Player396",
+      "bid": "7.62"
+    },
+    {
+      "name": "Auction Player397",
+      "bid": "94.53"
+    },
+    {
+      "name": "Auction Player398",
+      "bid": "20.46"
+    },
+    {
+      "name": "Auction Player399",
+      "bid": "22.24"
+    },
+    {
+      "name": "Auction Player400",
+      "bid": "0.54"
+    },
+    {
+      "name": "Auction Player401",
+      "bid": "31.81"
+    },
+    {
+      "name": "Auction Player402",
+      "bid": "68.22"
+    },
+    {
+      "name": "Auction Player403",
+      "bid": "31.22"
+    },
+    {
+      "name": "Auction Player404",
+      "bid": "40.06"
+    },
+    {
+      "name": "Auction Player405",
+      "bid": "32.51"
+    },
+    {
+      "name": "Auction Player406",
+      "bid": "81.58"
+    },
+    {
+      "name": "Auction Player407",
+      "bid": "30.95"
+    },
+    {
+      "name": "Auction Player408",
+      "bid": "64.59"
+    },
+    {
+      "name": "Auction Player409",
+      "bid": "56.79"
+    },
+    {
+      "name": "Auction Player410",
+      "bid": "7.77"
+    },
+    {
+      "name": "Auction Player411",
+      "bid": "81.65"
+    },
+    {
+      "name": "Auction Player412",
+      "bid": "90.25"
+    },
+    {
+      "name": "Auction Player413",
+      "bid": "5.74"
+    },
+    {
+      "name": "Auction Player414",
+      "bid": "84.31"
+    },
+    {
+      "name": "Auction Player415",
+      "bid": "31.2"
+    },
+    {
+      "name": "Auction Player416",
+      "bid": "37.01"
+    },
+    {
+      "name": "Auction Player417",
+      "bid": "54.76"
+    },
+    {
+      "name": "Auction Player418",
+      "bid": "6.93"
+    },
+    {
+      "name": "Auction Player419",
+      "bid": "93.24"
+    },
+    {
+      "name": "Auction Player420",
+      "bid": "75.73"
+    },
+    {
+      "name": "Auction Player421",
+      "bid": "52.04"
+    },
+    {
+      "name": "Auction Player422",
+      "bid": "57.0"
+    },
+    {
+      "name": "Auction Player423",
+      "bid": "10.88"
+    },
+    {
+      "name": "Auction Player424",
+      "bid": "82.9"
+    },
+    {
+      "name": "Auction Player425",
+      "bid": "99.22"
+    },
+    {
+      "name": "Auction Player426",
+      "bid": "61.05"
+    },
+    {
+      "name": "Auction Player427",
+      "bid": "26.61"
+    },
+    {
+      "name": "Auction Player428",
+      "bid": "27.88"
+    },
+    {
+      "name": "Auction Player429",
+      "bid": "91.03"
+    },
+    {
+      "name": "Auction Player430",
+      "bid": "20.41"
+    },
+    {
+      "name": "Auction Player431",
+      "bid": "86.53"
+    },
+    {
+      "name": "Auction Player432",
+      "bid": "39.31"
+    },
+    {
+      "name": "Auction Player433",
+      "bid": "50.28"
+    },
+    {
+      "name": "Auction Player434",
+      "bid": "23.18"
+    },
+    {
+      "name": "Auction Player435",
+      "bid": "8.17"
+    },
+    {
+      "name": "Auction Player436",
+      "bid": "72.93"
+    },
+    {
+      "name": "Auction Player437",
+      "bid": "81.7"
+    },
+    {
+      "name": "Auction Player438",
+      "bid": "65.3"
+    },
+    {
+      "name": "Auction Player439",
+      "bid": "40.67"
+    },
+    {
+      "name": "Auction Player440",
+      "bid": "77.93"
+    },
+    {
+      "name": "Auction Player441",
+      "bid": "34.78"
+    },
+    {
+      "name": "Auction Player442",
+      "bid": "16.38"
+    },
+    {
+      "name": "Auction Player443",
+      "bid": "52.02"
+    },
+    {
+      "name": "Auction Player444",
+      "bid": "22.62"
+    },
+    {
+      "name": "Auction Player445",
+      "bid": "15.06"
+    },
+    {
+      "name": "Auction Player446",
+      "bid": "59.52"
+    },
+    {
+      "name": "Auction Player447",
+      "bid": "12.6"
+    },
+    {
+      "name": "Auction Player448",
+      "bid": "43.2"
+    },
+    {
+      "name": "Auction Player449",
+      "bid": "22.78"
+    },
+    {
+      "name": "Auction Player450",
+      "bid": "18.24"
+    },
+    {
+      "name": "Auction Player451",
+      "bid": "53.1"
+    },
+    {
+      "name": "Auction Player452",
+      "bid": "97.45"
+    },
+    {
+      "name": "Auction Player453",
+      "bid": "94.62"
+    },
+    {
+      "name": "Auction Player454",
+      "bid": "37.57"
+    },
+    {
+      "name": "Auction Player455",
+      "bid": "37.82"
+    },
+    {
+      "name": "Auction Player456",
+      "bid": "10.24"
+    },
+    {
+      "name": "Auction Player457",
+      "bid": "43.25"
+    },
+    {
+      "name": "Auction Player458",
+      "bid": "20.96"
+    },
+    {
+      "name": "Auction Player459",
+      "bid": "55.46"
+    },
+    {
+      "name": "Auction Player460",
+      "bid": "52.57"
+    },
+    {
+      "name": "Auction Player461",
+      "bid": "54.63"
+    },
+    {
+      "name": "Auction Player462",
+      "bid": "63.32"
+    },
+    {
+      "name": "Auction Player463",
+      "bid": "49.13"
+    },
+    {
+      "name": "Auction Player464",
+      "bid": "51.69"
+    },
+    {
+      "name": "Auction Player465",
+      "bid": "57.96"
+    },
+    {
+      "name": "Auction Player466",
+      "bid": "12.25"
+    },
+    {
+      "name": "Auction Player467",
+      "bid": "85.11"
+    },
+    {
+      "name": "Auction Player468",
+      "bid": "59.71"
+    },
+    {
+      "name": "Auction Player469",
+      "bid": "19.6"
+    },
+    {
+      "name": "Auction Player470",
+      "bid": "50.04"
+    },
+    {
+      "name": "Auction Player471",
+      "bid": "4.14"
+    },
+    {
+      "name": "Auction Player472",
+      "bid": "49.08"
+    },
+    {
+      "name": "Auction Player473",
+      "bid": "52.87"
+    },
+    {
+      "name": "Auction Player474",
+      "bid": "89.0"
+    },
+    {
+      "name": "Auction Player475",
+      "bid": "73.83"
+    },
+    {
+      "name": "Auction Player476",
+      "bid": "4.0"
+    },
+    {
+      "name": "Auction Player477",
+      "bid": "15.66"
+    },
+    {
+      "name": "Auction Player478",
+      "bid": "77.64"
+    },
+    {
+      "name": "Auction Player479",
+      "bid": "55.52"
+    },
+    {
+      "name": "Auction Player480",
+      "bid": "89.51"
+    },
+    {
+      "name": "Auction Player481",
+      "bid": "26.93"
+    },
+    {
+      "name": "Auction Player482",
+      "bid": "88.24"
+    },
+    {
+      "name": "Auction Player483",
+      "bid": "28.64"
+    },
+    {
+      "name": "Auction Player484",
+      "bid": "69.83"
+    },
+    {
+      "name": "Auction Player485",
+      "bid": "85.92"
+    },
+    {
+      "name": "Auction Player486",
+      "bid": "93.98"
+    },
+    {
+      "name": "Auction Player487",
+      "bid": "52.94"
+    },
+    {
+      "name": "Auction Player488",
+      "bid": "9.1"
+    },
+    {
+      "name": "Auction Player489",
+      "bid": "4.05"
+    },
+    {
+      "name": "Auction Player490",
+      "bid": "28.98"
+    },
+    {
+      "name": "Auction Player491",
+      "bid": "11.44"
+    },
+    {
+      "name": "Auction Player492",
+      "bid": "7.97"
+    },
+    {
+      "name": "Auction Player493",
+      "bid": "57.03"
+    },
+    {
+      "name": "Auction Player494",
+      "bid": "83.81"
+    },
+    {
+      "name": "Auction Player495",
+      "bid": "4.63"
+    },
+    {
+      "name": "Auction Player496",
+      "bid": "93.4"
+    },
+    {
+      "name": "Auction Player497",
+      "bid": "41.13"
+    },
+    {
+      "name": "Auction Player498",
+      "bid": "35.63"
+    },
+    {
+      "name": "Auction Player499",
+      "bid": "68.14"
+    },
+    {
+      "name": "Auction Player500",
+      "bid": "36.62"
+    },
+    {
+      "name": "Auction Player501",
+      "bid": "92.15"
+    },
+    {
+      "name": "Auction Player502",
+      "bid": "36.64"
+    },
+    {
+      "name": "Auction Player503",
+      "bid": "93.56"
+    },
+    {
+      "name": "Auction Player504",
+      "bid": "97.46"
+    },
+    {
+      "name": "Auction Player505",
+      "bid": "53.18"
+    },
+    {
+      "name": "Auction Player506",
+      "bid": "61.51"
+    },
+    {
+      "name": "Auction Player507",
+      "bid": "73.99"
+    },
+    {
+      "name": "Auction Player508",
+      "bid": "81.46"
+    },
+    {
+      "name": "Auction Player509",
+      "bid": "41.64"
+    },
+    {
+      "name": "Auction Player510",
+      "bid": "32.47"
+    },
+    {
+      "name": "Auction Player511",
+      "bid": "42.41"
+    },
+    {
+      "name": "Auction Player512",
+      "bid": "8.12"
+    },
+    {
+      "name": "Auction Player513",
+      "bid": "22.9"
+    },
+    {
+      "name": "Auction Player514",
+      "bid": "79.7"
+    },
+    {
+      "name": "Auction Player515",
+      "bid": "16.71"
+    },
+    {
+      "name": "Auction Player516",
+      "bid": "57.71"
+    },
+    {
+      "name": "Auction Player517",
+      "bid": "75.1"
+    },
+    {
+      "name": "Auction Player518",
+      "bid": "68.18"
+    },
+    {
+      "name": "Auction Player519",
+      "bid": "74.51"
+    },
+    {
+      "name": "Auction Player520",
+      "bid": "31.53"
+    },
+    {
+      "name": "Auction Player521",
+      "bid": "61.96"
+    },
+    {
+      "name": "Auction Player522",
+      "bid": "85.94"
+    },
+    {
+      "name": "Auction Player523",
+      "bid": "89.47"
+    },
+    {
+      "name": "Auction Player524",
+      "bid": "96.67"
+    },
+    {
+      "name": "Auction Player525",
+      "bid": "84.37"
+    },
+    {
+      "name": "Auction Player526",
+      "bid": "14.07"
+    },
+    {
+      "name": "Auction Player527",
+      "bid": "76.42"
+    },
+    {
+      "name": "Auction Player528",
+      "bid": "78.09"
+    },
+    {
+      "name": "Auction Player529",
+      "bid": "90.24"
+    },
+    {
+      "name": "Auction Player530",
+      "bid": "65.38"
+    },
+    {
+      "name": "Auction Player531",
+      "bid": "4.05"
+    },
+    {
+      "name": "Auction Player532",
+      "bid": "13.44"
+    },
+    {
+      "name": "Auction Player533",
+      "bid": "20.84"
+    },
+    {
+      "name": "Auction Player534",
+      "bid": "60.35"
+    },
+    {
+      "name": "Auction Player535",
+      "bid": "51.36"
+    },
+    {
+      "name": "Auction Player536",
+      "bid": "81.98"
+    },
+    {
+      "name": "Auction Player537",
+      "bid": "34.64"
+    },
+    {
+      "name": "Auction Player538",
+      "bid": "31.22"
+    },
+    {
+      "name": "Auction Player539",
+      "bid": "48.71"
+    },
+    {
+      "name": "Auction Player540",
+      "bid": "80.34"
+    },
+    {
+      "name": "Auction Player541",
+      "bid": "26.17"
+    },
+    {
+      "name": "Auction Player542",
+      "bid": "67.57"
+    },
+    {
+      "name": "Auction Player543",
+      "bid": "71.53"
+    },
+    {
+      "name": "Auction Player544",
+      "bid": "33.81"
+    },
+    {
+      "name": "Auction Player545",
+      "bid": "93.15"
+    },
+    {
+      "name": "Auction Player546",
+      "bid": "10.9"
+    },
+    {
+      "name": "Auction Player547",
+      "bid": "71.58"
+    },
+    {
+      "name": "Auction Player548",
+      "bid": "77.13"
+    },
+    {
+      "name": "Auction Player549",
+      "bid": "39.31"
+    },
+    {
+      "name": "Auction Player550",
+      "bid": "11.11"
+    },
+    {
+      "name": "Auction Player551",
+      "bid": "81.29"
+    },
+    {
+      "name": "Auction Player552",
+      "bid": "64.44"
+    },
+    {
+      "name": "Auction Player553",
+      "bid": "31.6"
+    },
+    {
+      "name": "Auction Player554",
+      "bid": "38.94"
+    },
+    {
+      "name": "Auction Player555",
+      "bid": "82.4"
+    },
+    {
+      "name": "Auction Player556",
+      "bid": "82.57"
+    },
+    {
+      "name": "Auction Player557",
+      "bid": "23.54"
+    },
+    {
+      "name": "Auction Player558",
+      "bid": "55.1"
+    },
+    {
+      "name": "Auction Player559",
+      "bid": "96.08"
+    },
+    {
+      "name": "Auction Player560",
+      "bid": "24.51"
+    },
+    {
+      "name": "Auction Player561",
+      "bid": "89.95"
+    },
+    {
+      "name": "Auction Player562",
+      "bid": "73.2"
+    },
+    {
+      "name": "Auction Player563",
+      "bid": "45.5"
+    },
+    {
+      "name": "Auction Player564",
+      "bid": "52.47"
+    },
+    {
+      "name": "Auction Player565",
+      "bid": "42.35"
+    },
+    {
+      "name": "Auction Player566",
+      "bid": "77.35"
+    },
+    {
+      "name": "Auction Player567",
+      "bid": "55.52"
+    },
+    {
+      "name": "Auction Player568",
+      "bid": "45.73"
+    },
+    {
+      "name": "Auction Player569",
+      "bid": "94.23"
+    },
+    {
+      "name": "Auction Player570",
+      "bid": "67.62"
+    },
+    {
+      "name": "Auction Player571",
+      "bid": "51.46"
+    },
+    {
+      "name": "Auction Player572",
+      "bid": "28.34"
+    },
+    {
+      "name": "Auction Player573",
+      "bid": "72.33"
+    },
+    {
+      "name": "Auction Player574",
+      "bid": "12.9"
+    },
+    {
+      "name": "Auction Player575",
+      "bid": "88.37"
+    },
+    {
+      "name": "Auction Player576",
+      "bid": "15.58"
+    },
+    {
+      "name": "Auction Player577",
+      "bid": "56.91"
+    },
+    {
+      "name": "Auction Player578",
+      "bid": "37.39"
+    },
+    {
+      "name": "Auction Player579",
+      "bid": "48.02"
+    },
+    {
+      "name": "Auction Player580",
+      "bid": "62.05"
+    },
+    {
+      "name": "Auction Player581",
+      "bid": "77.0"
+    },
+    {
+      "name": "Auction Player582",
+      "bid": "75.77"
+    },
+    {
+      "name": "Auction Player583",
+      "bid": "71.24"
+    },
+    {
+      "name": "Auction Player584",
+      "bid": "68.52"
+    },
+    {
+      "name": "Auction Player585",
+      "bid": "72.05"
+    },
+    {
+      "name": "Auction Player586",
+      "bid": "50.55"
+    },
+    {
+      "name": "Auction Player587",
+      "bid": "78.74"
+    },
+    {
+      "name": "Auction Player588",
+      "bid": "8.09"
+    },
+    {
+      "name": "Auction Player589",
+      "bid": "91.09"
+    },
+    {
+      "name": "Auction Player590",
+      "bid": "78.63"
+    },
+    {
+      "name": "Auction Player591",
+      "bid": "50.68"
+    },
+    {
+      "name": "Auction Player592",
+      "bid": "85.35"
+    },
+    {
+      "name": "Auction Player593",
+      "bid": "10.72"
+    },
+    {
+      "name": "Auction Player594",
+      "bid": "84.89"
+    },
+    {
+      "name": "Auction Player595",
+      "bid": "99.41"
+    },
+    {
+      "name": "Auction Player596",
+      "bid": "51.17"
+    },
+    {
+      "name": "Auction Player597",
+      "bid": "7.43"
+    },
+    {
+      "name": "Auction Player598",
+      "bid": "0.82"
+    },
+    {
+      "name": "Auction Player599",
+      "bid": "35.67"
+    },
+    {
+      "name": "Auction Player600",
+      "bid": "59.62"
+    },
+    {
+      "name": "Auction Player601",
+      "bid": "43.21"
+    },
+    {
+      "name": "Auction Player602",
+      "bid": "57.63"
+    },
+    {
+      "name": "Auction Player603",
+      "bid": "25.49"
+    },
+    {
+      "name": "Auction Player604",
+      "bid": "48.24"
+    },
+    {
+      "name": "Auction Player605",
+      "bid": "57.92"
+    },
+    {
+      "name": "Auction Player606",
+      "bid": "42.42"
+    },
+    {
+      "name": "Auction Player607",
+      "bid": "30.57"
+    },
+    {
+      "name": "Auction Player608",
+      "bid": "0.18"
+    },
+    {
+      "name": "Auction Player609",
+      "bid": "62.54"
+    },
+    {
+      "name": "Auction Player610",
+      "bid": "23.54"
+    },
+    {
+      "name": "Auction Player611",
+      "bid": "71.66"
+    },
+    {
+      "name": "Auction Player612",
+      "bid": "56.02"
+    },
+    {
+      "name": "Auction Player613",
+      "bid": "50.61"
+    },
+    {
+      "name": "Auction Player614",
+      "bid": "13.54"
+    },
+    {
+      "name": "Auction Player615",
+      "bid": "78.95"
+    },
+    {
+      "name": "Auction Player616",
+      "bid": "91.31"
+    },
+    {
+      "name": "Auction Player617",
+      "bid": "27.02"
+    },
+    {
+      "name": "Auction Player618",
+      "bid": "57.8"
+    },
+    {
+      "name": "Auction Player619",
+      "bid": "76.3"
+    },
+    {
+      "name": "Auction Player620",
+      "bid": "26.88"
+    },
+    {
+      "name": "Auction Player621",
+      "bid": "68.49"
+    },
+    {
+      "name": "Auction Player622",
+      "bid": "76.68"
+    },
+    {
+      "name": "Auction Player623",
+      "bid": "52.89"
+    },
+    {
+      "name": "Auction Player624",
+      "bid": "96.0"
+    },
+    {
+      "name": "Auction Player625",
+      "bid": "57.71"
+    },
+    {
+      "name": "Auction Player626",
+      "bid": "87.71"
+    },
+    {
+      "name": "Auction Player627",
+      "bid": "64.55"
+    },
+    {
+      "name": "Auction Player628",
+      "bid": "4.95"
+    },
+    {
+      "name": "Auction Player629",
+      "bid": "78.7"
+    },
+    {
+      "name": "Auction Player630",
+      "bid": "84.39"
+    },
+    {
+      "name": "Auction Player631",
+      "bid": "65.29"
+    },
+    {
+      "name": "Auction Player632",
+      "bid": "85.94"
+    },
+    {
+      "name": "Auction Player633",
+      "bid": "25.78"
+    },
+    {
+      "name": "Auction Player634",
+      "bid": "50.88"
+    },
+    {
+      "name": "Auction Player635",
+      "bid": "0.27"
+    },
+    {
+      "name": "Auction Player636",
+      "bid": "47.9"
+    },
+    {
+      "name": "Auction Player637",
+      "bid": "38.33"
+    },
+    {
+      "name": "Auction Player638",
+      "bid": "89.78"
+    },
+    {
+      "name": "Auction Player639",
+      "bid": "14.17"
+    },
+    {
+      "name": "Auction Player640",
+      "bid": "44.77"
+    },
+    {
+      "name": "Auction Player641",
+      "bid": "9.92"
+    },
+    {
+      "name": "Auction Player642",
+      "bid": "85.54"
+    },
+    {
+      "name": "Auction Player643",
+      "bid": "36.15"
+    },
+    {
+      "name": "Auction Player644",
+      "bid": "62.14"
+    },
+    {
+      "name": "Auction Player645",
+      "bid": "92.66"
+    },
+    {
+      "name": "Auction Player646",
+      "bid": "9.59"
+    },
+    {
+      "name": "Auction Player647",
+      "bid": "61.92"
+    },
+    {
+      "name": "Auction Player648",
+      "bid": "17.52"
+    },
+    {
+      "name": "Auction Player649",
+      "bid": "30.79"
+    },
+    {
+      "name": "Auction Player650",
+      "bid": "92.87"
+    },
+    {
+      "name": "Auction Player651",
+      "bid": "60.72"
+    },
+    {
+      "name": "Auction Player652",
+      "bid": "13.39"
+    },
+    {
+      "name": "Auction Player653",
+      "bid": "98.81"
+    },
+    {
+      "name": "Auction Player654",
+      "bid": "6.75"
+    },
+    {
+      "name": "Auction Player655",
+      "bid": "33.17"
+    },
+    {
+      "name": "Auction Player656",
+      "bid": "50.91"
+    },
+    {
+      "name": "Auction Player657",
+      "bid": "11.75"
+    },
+    {
+      "name": "Auction Player658",
+      "bid": "53.52"
+    },
+    {
+      "name": "Auction Player659",
+      "bid": "79.2"
+    },
+    {
+      "name": "Auction Player660",
+      "bid": "46.65"
+    },
+    {
+      "name": "Auction Player661",
+      "bid": "34.74"
+    },
+    {
+      "name": "Auction Player662",
+      "bid": "82.18"
+    },
+    {
+      "name": "Auction Player663",
+      "bid": "76.42"
+    },
+    {
+      "name": "Auction Player664",
+      "bid": "61.04"
+    },
+    {
+      "name": "Auction Player665",
+      "bid": "20.84"
+    },
+    {
+      "name": "Auction Player666",
+      "bid": "28.86"
+    },
+    {
+      "name": "Auction Player667",
+      "bid": "41.93"
+    },
+    {
+      "name": "Auction Player668",
+      "bid": "50.57"
+    },
+    {
+      "name": "Auction Player669",
+      "bid": "45.61"
+    },
+    {
+      "name": "Auction Player670",
+      "bid": "11.97"
+    },
+    {
+      "name": "Auction Player671",
+      "bid": "76.82"
+    },
+    {
+      "name": "Auction Player672",
+      "bid": "85.08"
+    },
+    {
+      "name": "Auction Player673",
+      "bid": "92.86"
+    },
+    {
+      "name": "Auction Player674",
+      "bid": "5.37"
+    },
+    {
+      "name": "Auction Player675",
+      "bid": "27.6"
+    },
+    {
+      "name": "Auction Player676",
+      "bid": "73.23"
+    },
+    {
+      "name": "Auction Player677",
+      "bid": "62.54"
+    },
+    {
+      "name": "Auction Player678",
+      "bid": "21.41"
+    },
+    {
+      "name": "Auction Player679",
+      "bid": "7.7"
+    },
+    {
+      "name": "Auction Player680",
+      "bid": "1.56"
+    },
+    {
+      "name": "Auction Player681",
+      "bid": "6.28"
+    },
+    {
+      "name": "Auction Player682",
+      "bid": "20.61"
+    },
+    {
+      "name": "Auction Player683",
+      "bid": "55.23"
+    },
+    {
+      "name": "Auction Player684",
+      "bid": "97.24"
+    },
+    {
+      "name": "Auction Player685",
+      "bid": "44.02"
+    },
+    {
+      "name": "Auction Player686",
+      "bid": "2.14"
+    },
+    {
+      "name": "Auction Player687",
+      "bid": "18.11"
+    },
+    {
+      "name": "Auction Player688",
+      "bid": "17.47"
+    },
+    {
+      "name": "Auction Player689",
+      "bid": "54.79"
+    },
+    {
+      "name": "Auction Player690",
+      "bid": "62.2"
+    },
+    {
+      "name": "Auction Player691",
+      "bid": "40.51"
+    },
+    {
+      "name": "Auction Player692",
+      "bid": "37.75"
+    },
+    {
+      "name": "Auction Player693",
+      "bid": "7.12"
+    },
+    {
+      "name": "Auction Player694",
+      "bid": "48.15"
+    },
+    {
+      "name": "Auction Player695",
+      "bid": "34.06"
+    },
+    {
+      "name": "Auction Player696",
+      "bid": "87.2"
+    },
+    {
+      "name": "Auction Player697",
+      "bid": "73.41"
+    },
+    {
+      "name": "Auction Player698",
+      "bid": "56.41"
+    },
+    {
+      "name": "Auction Player699",
+      "bid": "75.78"
+    },
+    {
+      "name": "Auction Player700",
+      "bid": "59.01"
+    },
+    {
+      "name": "Auction Player701",
+      "bid": "67.96"
+    },
+    {
+      "name": "Auction Player702",
+      "bid": "93.51"
+    },
+    {
+      "name": "Auction Player703",
+      "bid": "18.86"
+    },
+    {
+      "name": "Auction Player704",
+      "bid": "58.42"
+    },
+    {
+      "name": "Auction Player705",
+      "bid": "16.19"
+    },
+    {
+      "name": "Auction Player706",
+      "bid": "52.65"
+    },
+    {
+      "name": "Auction Player707",
+      "bid": "66.38"
+    },
+    {
+      "name": "Auction Player708",
+      "bid": "41.51"
+    },
+    {
+      "name": "Auction Player709",
+      "bid": "37.1"
+    },
+    {
+      "name": "Auction Player710",
+      "bid": "48.23"
+    },
+    {
+      "name": "Auction Player711",
+      "bid": "19.37"
+    },
+    {
+      "name": "Auction Player712",
+      "bid": "56.3"
+    },
+    {
+      "name": "Auction Player713",
+      "bid": "11.29"
+    },
+    {
+      "name": "Auction Player714",
+      "bid": "29.69"
+    },
+    {
+      "name": "Auction Player715",
+      "bid": "80.04"
+    },
+    {
+      "name": "Auction Player716",
+      "bid": "47.6"
+    },
+    {
+      "name": "Auction Player717",
+      "bid": "22.4"
+    },
+    {
+      "name": "Auction Player718",
+      "bid": "68.51"
+    },
+    {
+      "name": "Auction Player719",
+      "bid": "3.91"
+    },
+    {
+      "name": "Auction Player720",
+      "bid": "13.96"
+    },
+    {
+      "name": "Auction Player721",
+      "bid": "6.26"
+    },
+    {
+      "name": "Auction Player722",
+      "bid": "94.92"
+    },
+    {
+      "name": "Auction Player723",
+      "bid": "69.17"
+    },
+    {
+      "name": "Auction Player724",
+      "bid": "18.77"
+    },
+    {
+      "name": "Auction Player725",
+      "bid": "24.99"
+    },
+    {
+      "name": "Auction Player726",
+      "bid": "56.58"
+    },
+    {
+      "name": "Auction Player727",
+      "bid": "4.81"
+    },
+    {
+      "name": "Auction Player728",
+      "bid": "26.07"
+    },
+    {
+      "name": "Auction Player729",
+      "bid": "0.8"
+    },
+    {
+      "name": "Auction Player730",
+      "bid": "30.04"
+    },
+    {
+      "name": "Auction Player731",
+      "bid": "91.15"
+    },
+    {
+      "name": "Auction Player732",
+      "bid": "97.58"
+    },
+    {
+      "name": "Auction Player733",
+      "bid": "17.26"
+    },
+    {
+      "name": "Auction Player734",
+      "bid": "70.28"
+    },
+    {
+      "name": "Auction Player735",
+      "bid": "73.14"
+    },
+    {
+      "name": "Auction Player736",
+      "bid": "82.27"
+    },
+    {
+      "name": "Auction Player737",
+      "bid": "96.44"
+    },
+    {
+      "name": "Auction Player738",
+      "bid": "86.94"
+    },
+    {
+      "name": "Auction Player739",
+      "bid": "85.64"
+    },
+    {
+      "name": "Auction Player740",
+      "bid": "28.44"
+    },
+    {
+      "name": "Auction Player741",
+      "bid": "81.51"
+    },
+    {
+      "name": "Auction Player742",
+      "bid": "48.33"
+    },
+    {
+      "name": "Auction Player743",
+      "bid": "86.73"
+    },
+    {
+      "name": "Auction Player744",
+      "bid": "5.11"
+    },
+    {
+      "name": "Auction Player745",
+      "bid": "59.31"
+    },
+    {
+      "name": "Auction Player746",
+      "bid": "85.12"
+    },
+    {
+      "name": "Auction Player747",
+      "bid": "74.7"
+    },
+    {
+      "name": "Auction Player748",
+      "bid": "17.47"
+    },
+    {
+      "name": "Auction Player749",
+      "bid": "87.74"
+    },
+    {
+      "name": "Auction Player750",
+      "bid": "91.49"
+    },
+    {
+      "name": "Auction Player751",
+      "bid": "61.97"
+    },
+    {
+      "name": "Auction Player752",
+      "bid": "34.51"
+    },
+    {
+      "name": "Auction Player753",
+      "bid": "78.97"
+    },
+    {
+      "name": "Auction Player754",
+      "bid": "35.72"
+    },
+    {
+      "name": "Auction Player755",
+      "bid": "74.01"
+    },
+    {
+      "name": "Auction Player756",
+      "bid": "65.43"
+    },
+    {
+      "name": "Auction Player757",
+      "bid": "65.53"
+    },
+    {
+      "name": "Auction Player758",
+      "bid": "44.32"
+    },
+    {
+      "name": "Auction Player759",
+      "bid": "93.35"
+    },
+    {
+      "name": "Auction Player760",
+      "bid": "56.56"
+    },
+    {
+      "name": "Auction Player761",
+      "bid": "82.58"
+    },
+    {
+      "name": "Auction Player762",
+      "bid": "62.76"
+    },
+    {
+      "name": "Auction Player763",
+      "bid": "81.84"
+    },
+    {
+      "name": "Auction Player764",
+      "bid": "77.52"
+    },
+    {
+      "name": "Auction Player765",
+      "bid": "56.9"
+    },
+    {
+      "name": "Auction Player766",
+      "bid": "58.64"
+    },
+    {
+      "name": "Auction Player767",
+      "bid": "99.71"
+    },
+    {
+      "name": "Auction Player768",
+      "bid": "43.08"
+    },
+    {
+      "name": "Auction Player769",
+      "bid": "83.07"
+    },
+    {
+      "name": "Auction Player770",
+      "bid": "95.01"
+    },
+    {
+      "name": "Auction Player771",
+      "bid": "90.71"
+    },
+    {
+      "name": "Auction Player772",
+      "bid": "49.44"
+    },
+    {
+      "name": "Auction Player773",
+      "bid": "79.62"
+    },
+    {
+      "name": "Auction Player774",
+      "bid": "60.15"
+    },
+    {
+      "name": "Auction Player775",
+      "bid": "79.1"
+    },
+    {
+      "name": "Auction Player776",
+      "bid": "36.05"
+    },
+    {
+      "name": "Auction Player777",
+      "bid": "60.13"
+    },
+    {
+      "name": "Auction Player778",
+      "bid": "43.9"
+    },
+    {
+      "name": "Auction Player779",
+      "bid": "47.73"
+    },
+    {
+      "name": "Auction Player780",
+      "bid": "58.09"
+    },
+    {
+      "name": "Auction Player781",
+      "bid": "52.26"
+    },
+    {
+      "name": "Auction Player782",
+      "bid": "30.49"
+    },
+    {
+      "name": "Auction Player783",
+      "bid": "74.73"
+    },
+    {
+      "name": "Auction Player784",
+      "bid": "92.11"
+    },
+    {
+      "name": "Auction Player785",
+      "bid": "74.42"
+    },
+    {
+      "name": "Auction Player786",
+      "bid": "53.76"
+    },
+    {
+      "name": "Auction Player787",
+      "bid": "79.55"
+    },
+    {
+      "name": "Auction Player788",
+      "bid": "32.33"
+    },
+    {
+      "name": "Auction Player789",
+      "bid": "39.0"
+    },
+    {
+      "name": "Auction Player790",
+      "bid": "91.72"
+    },
+    {
+      "name": "Auction Player791",
+      "bid": "93.32"
+    },
+    {
+      "name": "Auction Player792",
+      "bid": "60.16"
+    },
+    {
+      "name": "Auction Player793",
+      "bid": "6.46"
+    },
+    {
+      "name": "Auction Player794",
+      "bid": "48.05"
+    },
+    {
+      "name": "Auction Player795",
+      "bid": "13.48"
+    },
+    {
+      "name": "Auction Player796",
+      "bid": "49.59"
+    },
+    {
+      "name": "Auction Player797",
+      "bid": "64.86"
+    },
+    {
+      "name": "Auction Player798",
+      "bid": "21.83"
+    },
+    {
+      "name": "Auction Player799",
+      "bid": "0.99"
+    },
+    {
+      "name": "Auction Player800",
+      "bid": "94.64"
+    },
+    {
+      "name": "Auction Player801",
+      "bid": "36.3"
+    },
+    {
+      "name": "Auction Player802",
+      "bid": "26.02"
+    },
+    {
+      "name": "Auction Player803",
+      "bid": "64.66"
+    },
+    {
+      "name": "Auction Player804",
+      "bid": "61.01"
+    },
+    {
+      "name": "Auction Player805",
+      "bid": "63.66"
+    },
+    {
+      "name": "Auction Player806",
+      "bid": "71.25"
+    },
+    {
+      "name": "Auction Player807",
+      "bid": "17.0"
+    },
+    {
+      "name": "Auction Player808",
+      "bid": "19.39"
+    },
+    {
+      "name": "Auction Player809",
+      "bid": "53.96"
+    },
+    {
+      "name": "Auction Player810",
+      "bid": "31.99"
+    },
+    {
+      "name": "Auction Player811",
+      "bid": "52.79"
+    },
+    {
+      "name": "Auction Player812",
+      "bid": "46.13"
+    },
+    {
+      "name": "Auction Player813",
+      "bid": "79.5"
+    },
+    {
+      "name": "Auction Player814",
+      "bid": "87.13"
+    },
+    {
+      "name": "Auction Player815",
+      "bid": "59.03"
+    },
+    {
+      "name": "Auction Player816",
+      "bid": "8.72"
+    },
+    {
+      "name": "Auction Player817",
+      "bid": "61.12"
+    },
+    {
+      "name": "Auction Player818",
+      "bid": "19.63"
+    },
+    {
+      "name": "Auction Player819",
+      "bid": "53.53"
+    },
+    {
+      "name": "Auction Player820",
+      "bid": "47.02"
+    },
+    {
+      "name": "Auction Player821",
+      "bid": "60.81"
+    },
+    {
+      "name": "Auction Player822",
+      "bid": "7.77"
+    },
+    {
+      "name": "Auction Player823",
+      "bid": "77.72"
+    },
+    {
+      "name": "Auction Player824",
+      "bid": "8.42"
+    },
+    {
+      "name": "Auction Player825",
+      "bid": "35.68"
+    },
+    {
+      "name": "Auction Player826",
+      "bid": "41.46"
+    },
+    {
+      "name": "Auction Player827",
+      "bid": "99.55"
+    },
+    {
+      "name": "Auction Player828",
+      "bid": "52.87"
+    },
+    {
+      "name": "Auction Player829",
+      "bid": "74.6"
+    },
+    {
+      "name": "Auction Player830",
+      "bid": "95.74"
+    },
+    {
+      "name": "Auction Player831",
+      "bid": "97.2"
+    },
+    {
+      "name": "Auction Player832",
+      "bid": "57.32"
+    },
+    {
+      "name": "Auction Player833",
+      "bid": "87.68"
+    },
+    {
+      "name": "Auction Player834",
+      "bid": "26.57"
+    },
+    {
+      "name": "Auction Player835",
+      "bid": "35.86"
+    },
+    {
+      "name": "Auction Player836",
+      "bid": "44.0"
+    },
+    {
+      "name": "Auction Player837",
+      "bid": "93.81"
+    },
+    {
+      "name": "Auction Player838",
+      "bid": "91.11"
+    },
+    {
+      "name": "Auction Player839",
+      "bid": "91.19"
+    },
+    {
+      "name": "Auction Player840",
+      "bid": "90.7"
+    },
+    {
+      "name": "Auction Player841",
+      "bid": "19.38"
+    },
+    {
+      "name": "Auction Player842",
+      "bid": "84.46"
+    },
+    {
+      "name": "Auction Player843",
+      "bid": "64.93"
+    },
+    {
+      "name": "Auction Player844",
+      "bid": "36.37"
+    },
+    {
+      "name": "Auction Player845",
+      "bid": "19.75"
+    },
+    {
+      "name": "Auction Player846",
+      "bid": "50.43"
+    },
+    {
+      "name": "Auction Player847",
+      "bid": "65.63"
+    },
+    {
+      "name": "Auction Player848",
+      "bid": "88.23"
+    },
+    {
+      "name": "Auction Player849",
+      "bid": "46.31"
+    },
+    {
+      "name": "Auction Player850",
+      "bid": "21.22"
+    },
+    {
+      "name": "Auction Player851",
+      "bid": "16.12"
+    },
+    {
+      "name": "Auction Player852",
+      "bid": "55.16"
+    },
+    {
+      "name": "Auction Player853",
+      "bid": "4.12"
+    },
+    {
+      "name": "Auction Player854",
+      "bid": "17.49"
+    },
+    {
+      "name": "Auction Player855",
+      "bid": "48.35"
+    },
+    {
+      "name": "Auction Player856",
+      "bid": "13.06"
+    },
+    {
+      "name": "Auction Player857",
+      "bid": "4.04"
+    },
+    {
+      "name": "Auction Player858",
+      "bid": "40.32"
+    },
+    {
+      "name": "Auction Player859",
+      "bid": "32.58"
+    },
+    {
+      "name": "Auction Player860",
+      "bid": "33.31"
+    },
+    {
+      "name": "Auction Player861",
+      "bid": "5.37"
+    },
+    {
+      "name": "Auction Player862",
+      "bid": "89.67"
+    },
+    {
+      "name": "Auction Player863",
+      "bid": "86.92"
+    },
+    {
+      "name": "Auction Player864",
+      "bid": "18.67"
+    },
+    {
+      "name": "Auction Player865",
+      "bid": "77.42"
+    },
+    {
+      "name": "Auction Player866",
+      "bid": "18.29"
+    },
+    {
+      "name": "Auction Player867",
+      "bid": "55.23"
+    },
+    {
+      "name": "Auction Player868",
+      "bid": "46.93"
+    },
+    {
+      "name": "Auction Player869",
+      "bid": "10.13"
+    },
+    {
+      "name": "Auction Player870",
+      "bid": "17.7"
+    },
+    {
+      "name": "Auction Player871",
+      "bid": "24.11"
+    },
+    {
+      "name": "Auction Player872",
+      "bid": "97.37"
+    },
+    {
+      "name": "Auction Player873",
+      "bid": "20.77"
+    },
+    {
+      "name": "Auction Player874",
+      "bid": "10.47"
+    },
+    {
+      "name": "Auction Player875",
+      "bid": "56.54"
+    },
+    {
+      "name": "Auction Player876",
+      "bid": "54.12"
+    },
+    {
+      "name": "Auction Player877",
+      "bid": "70.81"
+    },
+    {
+      "name": "Auction Player878",
+      "bid": "71.93"
+    },
+    {
+      "name": "Auction Player879",
+      "bid": "55.53"
+    },
+    {
+      "name": "Auction Player880",
+      "bid": "52.75"
+    },
+    {
+      "name": "Auction Player881",
+      "bid": "30.84"
+    },
+    {
+      "name": "Auction Player882",
+      "bid": "13.6"
+    },
+    {
+      "name": "Auction Player883",
+      "bid": "66.91"
+    },
+    {
+      "name": "Auction Player884",
+      "bid": "25.41"
+    },
+    {
+      "name": "Auction Player885",
+      "bid": "4.16"
+    },
+    {
+      "name": "Auction Player886",
+      "bid": "71.0"
+    },
+    {
+      "name": "Auction Player887",
+      "bid": "8.45"
+    },
+    {
+      "name": "Auction Player888",
+      "bid": "97.17"
+    },
+    {
+      "name": "Auction Player889",
+      "bid": "5.34"
+    },
+    {
+      "name": "Auction Player890",
+      "bid": "89.15"
+    },
+    {
+      "name": "Auction Player891",
+      "bid": "32.13"
+    },
+    {
+      "name": "Auction Player892",
+      "bid": "76.09"
+    },
+    {
+      "name": "Auction Player893",
+      "bid": "98.64"
+    },
+    {
+      "name": "Auction Player894",
+      "bid": "35.84"
+    },
+    {
+      "name": "Auction Player895",
+      "bid": "76.13"
+    },
+    {
+      "name": "Auction Player896",
+      "bid": "88.98"
+    },
+    {
+      "name": "Auction Player897",
+      "bid": "36.75"
+    },
+    {
+      "name": "Auction Player898",
+      "bid": "84.75"
+    },
+    {
+      "name": "Auction Player899",
+      "bid": "46.16"
+    },
+    {
+      "name": "Auction Player900",
+      "bid": "61.84"
+    },
+    {
+      "name": "Auction Player901",
+      "bid": "7.36"
+    },
+    {
+      "name": "Auction Player902",
+      "bid": "6.57"
+    },
+    {
+      "name": "Auction Player903",
+      "bid": "98.85"
+    },
+    {
+      "name": "Auction Player904",
+      "bid": "10.65"
+    },
+    {
+      "name": "Auction Player905",
+      "bid": "93.04"
+    },
+    {
+      "name": "Auction Player906",
+      "bid": "21.44"
+    },
+    {
+      "name": "Auction Player907",
+      "bid": "0.27"
+    },
+    {
+      "name": "Auction Player908",
+      "bid": "40.21"
+    },
+    {
+      "name": "Auction Player909",
+      "bid": "81.19"
+    },
+    {
+      "name": "Auction Player910",
+      "bid": "35.21"
+    },
+    {
+      "name": "Auction Player911",
+      "bid": "99.65"
+    },
+    {
+      "name": "Auction Player912",
+      "bid": "53.69"
+    },
+    {
+      "name": "Auction Player913",
+      "bid": "66.74"
+    },
+    {
+      "name": "Auction Player914",
+      "bid": "4.99"
+    },
+    {
+      "name": "Auction Player915",
+      "bid": "11.03"
+    },
+    {
+      "name": "Auction Player916",
+      "bid": "5.5"
+    },
+    {
+      "name": "Auction Player917",
+      "bid": "13.63"
+    },
+    {
+      "name": "Auction Player918",
+      "bid": "64.32"
+    },
+    {
+      "name": "Auction Player919",
+      "bid": "56.62"
+    },
+    {
+      "name": "Auction Player920",
+      "bid": "65.42"
+    },
+    {
+      "name": "Auction Player921",
+      "bid": "19.95"
+    },
+    {
+      "name": "Auction Player922",
+      "bid": "47.98"
+    },
+    {
+      "name": "Auction Player923",
+      "bid": "2.07"
+    },
+    {
+      "name": "Auction Player924",
+      "bid": "79.31"
+    },
+    {
+      "name": "Auction Player925",
+      "bid": "42.63"
+    },
+    {
+      "name": "Auction Player926",
+      "bid": "42.12"
+    },
+    {
+      "name": "Auction Player927",
+      "bid": "74.77"
+    },
+    {
+      "name": "Auction Player928",
+      "bid": "2.84"
+    },
+    {
+      "name": "Auction Player929",
+      "bid": "46.99"
+    },
+    {
+      "name": "Auction Player930",
+      "bid": "27.9"
+    },
+    {
+      "name": "Auction Player931",
+      "bid": "44.06"
+    },
+    {
+      "name": "Auction Player932",
+      "bid": "60.28"
+    },
+    {
+      "name": "Auction Player933",
+      "bid": "53.7"
+    },
+    {
+      "name": "Auction Player934",
+      "bid": "80.96"
+    },
+    {
+      "name": "Auction Player935",
+      "bid": "91.43"
+    },
+    {
+      "name": "Auction Player936",
+      "bid": "74.08"
+    },
+    {
+      "name": "Auction Player937",
+      "bid": "83.44"
+    },
+    {
+      "name": "Auction Player938",
+      "bid": "20.43"
+    },
+    {
+      "name": "Auction Player939",
+      "bid": "89.31"
+    },
+    {
+      "name": "Auction Player940",
+      "bid": "37.09"
+    },
+    {
+      "name": "Auction Player941",
+      "bid": "59.91"
+    },
+    {
+      "name": "Auction Player942",
+      "bid": "45.9"
+    },
+    {
+      "name": "Auction Player943",
+      "bid": "72.91"
+    },
+    {
+      "name": "Auction Player944",
+      "bid": "28.52"
+    },
+    {
+      "name": "Auction Player945",
+      "bid": "71.01"
+    },
+    {
+      "name": "Auction Player946",
+      "bid": "3.72"
+    },
+    {
+      "name": "Auction Player947",
+      "bid": "77.35"
+    },
+    {
+      "name": "Auction Player948",
+      "bid": "65.08"
+    },
+    {
+      "name": "Auction Player949",
+      "bid": "66.31"
+    },
+    {
+      "name": "Auction Player950",
+      "bid": "37.34"
+    },
+    {
+      "name": "Auction Player951",
+      "bid": "13.38"
+    },
+    {
+      "name": "Auction Player952",
+      "bid": "49.54"
+    },
+    {
+      "name": "Auction Player953",
+      "bid": "53.34"
+    },
+    {
+      "name": "Auction Player954",
+      "bid": "77.02"
+    },
+    {
+      "name": "Auction Player955",
+      "bid": "42.44"
+    },
+    {
+      "name": "Auction Player956",
+      "bid": "98.22"
+    },
+    {
+      "name": "Auction Player957",
+      "bid": "85.36"
+    },
+    {
+      "name": "Auction Player958",
+      "bid": "84.07"
+    },
+    {
+      "name": "Auction Player959",
+      "bid": "15.86"
+    },
+    {
+      "name": "Auction Player960",
+      "bid": "76.93"
+    },
+    {
+      "name": "Auction Player961",
+      "bid": "81.46"
+    },
+    {
+      "name": "Auction Player962",
+      "bid": "87.95"
+    },
+    {
+      "name": "Auction Player963",
+      "bid": "73.28"
+    },
+    {
+      "name": "Auction Player964",
+      "bid": "52.39"
+    },
+    {
+      "name": "Auction Player965",
+      "bid": "6.81"
+    },
+    {
+      "name": "Auction Player966",
+      "bid": "70.19"
+    },
+    {
+      "name": "Auction Player967",
+      "bid": "17.9"
+    },
+    {
+      "name": "Auction Player968",
+      "bid": "62.13"
+    },
+    {
+      "name": "Auction Player969",
+      "bid": "68.48"
+    },
+    {
+      "name": "Auction Player970",
+      "bid": "27.81"
+    },
+    {
+      "name": "Auction Player971",
+      "bid": "85.92"
+    },
+    {
+      "name": "Auction Player972",
+      "bid": "70.73"
+    },
+    {
+      "name": "Auction Player973",
+      "bid": "83.95"
+    },
+    {
+      "name": "Auction Player974",
+      "bid": "44.37"
+    },
+    {
+      "name": "Auction Player975",
+      "bid": "16.31"
+    },
+    {
+      "name": "Auction Player976",
+      "bid": "40.49"
+    },
+    {
+      "name": "Auction Player977",
+      "bid": "59.7"
+    },
+    {
+      "name": "Auction Player978",
+      "bid": "18.98"
+    },
+    {
+      "name": "Auction Player979",
+      "bid": "98.05"
+    },
+    {
+      "name": "Auction Player980",
+      "bid": "62.57"
+    },
+    {
+      "name": "Auction Player981",
+      "bid": "90.57"
+    },
+    {
+      "name": "Auction Player982",
+      "bid": "82.11"
+    },
+    {
+      "name": "Auction Player983",
+      "bid": "78.46"
+    },
+    {
+      "name": "Auction Player984",
+      "bid": "52.76"
+    },
+    {
+      "name": "Auction Player985",
+      "bid": "57.72"
+    },
+    {
+      "name": "Auction Player986",
+      "bid": "92.3"
+    },
+    {
+      "name": "Auction Player987",
+      "bid": "69.29"
+    },
+    {
+      "name": "Auction Player988",
+      "bid": "2.47"
+    },
+    {
+      "name": "Auction Player989",
+      "bid": "91.2"
+    },
+    {
+      "name": "Auction Player990",
+      "bid": "73.25"
+    },
+    {
+      "name": "Auction Player991",
+      "bid": "61.02"
+    },
+    {
+      "name": "Auction Player992",
+      "bid": "4.42"
+    },
+    {
+      "name": "Auction Player993",
+      "bid": "30.93"
+    },
+    {
+      "name": "Auction Player994",
+      "bid": "79.98"
+    },
+    {
+      "name": "Auction Player995",
+      "bid": "94.82"
+    },
+    {
+      "name": "Auction Player996",
+      "bid": "88.44"
+    },
+    {
+      "name": "Auction Player997",
+      "bid": "72.31"
+    },
+    {
+      "name": "Auction Player998",
+      "bid": "7.9"
+    },
+    {
+      "name": "Auction Player999",
+      "bid": "48.22"
+    },
+    {
+      "name": "Auction Player1000",
+      "bid": "3.46"
+    },
+    {
+      "name": "Auction Player1001",
+      "bid": "17.16"
+    },
+    {
+      "name": "Auction Player1002",
+      "bid": "12.73"
+    },
+    {
+      "name": "Auction Player1003",
+      "bid": "58.94"
+    },
+    {
+      "name": "Auction Player1004",
+      "bid": "11.39"
+    },
+    {
+      "name": "Auction Player1005",
+      "bid": "2.96"
+    },
+    {
+      "name": "Auction Player1006",
+      "bid": "93.04"
+    },
+    {
+      "name": "Auction Player1007",
+      "bid": "48.77"
+    },
+    {
+      "name": "Auction Player1008",
+      "bid": "73.47"
+    },
+    {
+      "name": "Auction Player1009",
+      "bid": "38.11"
+    },
+    {
+      "name": "Auction Player1010",
+      "bid": "60.23"
+    },
+    {
+      "name": "Auction Player1011",
+      "bid": "26.13"
+    },
+    {
+      "name": "Auction Player1012",
+      "bid": "71.94"
+    },
+    {
+      "name": "Auction Player1013",
+      "bid": "13.48"
+    },
+    {
+      "name": "Auction Player1014",
+      "bid": "1.22"
+    },
+    {
+      "name": "Auction Player1015",
+      "bid": "92.36"
+    },
+    {
+      "name": "Auction Player1016",
+      "bid": "15.44"
+    },
+    {
+      "name": "Auction Player1017",
+      "bid": "65.6"
+    },
+    {
+      "name": "Auction Player1018",
+      "bid": "29.55"
+    },
+    {
+      "name": "Auction Player1019",
+      "bid": "7.94"
+    },
+    {
+      "name": "Auction Player1020",
+      "bid": "75.44"
+    },
+    {
+      "name": "Auction Player1021",
+      "bid": "57.63"
+    },
+    {
+      "name": "Auction Player1022",
+      "bid": "18.83"
+    },
+    {
+      "name": "Auction Player1023",
+      "bid": "9.67"
+    },
+    {
+      "name": "Auction Player1024",
+      "bid": "86.62"
+    },
+    {
+      "name": "Auction Player1025",
+      "bid": "32.06"
+    },
+    {
+      "name": "Auction Player1026",
+      "bid": "10.27"
+    },
+    {
+      "name": "Auction Player1027",
+      "bid": "46.82"
+    },
+    {
+      "name": "Auction Player1028",
+      "bid": "83.5"
+    },
+    {
+      "name": "Auction Player1029",
+      "bid": "69.13"
+    },
+    {
+      "name": "Auction Player1030",
+      "bid": "68.05"
+    },
+    {
+      "name": "Auction Player1031",
+      "bid": "33.63"
+    },
+    {
+      "name": "Auction Player1032",
+      "bid": "14.43"
+    },
+    {
+      "name": "Auction Player1033",
+      "bid": "38.8"
+    },
+    {
+      "name": "Auction Player1034",
+      "bid": "16.2"
+    },
+    {
+      "name": "Auction Player1035",
+      "bid": "22.66"
+    },
+    {
+      "name": "Auction Player1036",
+      "bid": "76.24"
+    },
+    {
+      "name": "Auction Player1037",
+      "bid": "68.65"
+    },
+    {
+      "name": "Auction Player1038",
+      "bid": "58.04"
+    },
+    {
+      "name": "Auction Player1039",
+      "bid": "92.89"
+    },
+    {
+      "name": "Auction Player1040",
+      "bid": "36.78"
+    },
+    {
+      "name": "Auction Player1041",
+      "bid": "20.86"
+    },
+    {
+      "name": "Auction Player1042",
+      "bid": "98.56"
+    },
+    {
+      "name": "Auction Player1043",
+      "bid": "96.84"
+    },
+    {
+      "name": "Auction Player1044",
+      "bid": "78.03"
+    },
+    {
+      "name": "Auction Player1045",
+      "bid": "51.26"
+    },
+    {
+      "name": "Auction Player1046",
+      "bid": "41.43"
+    },
+    {
+      "name": "Auction Player1047",
+      "bid": "48.89"
+    },
+    {
+      "name": "Auction Player1048",
+      "bid": "43.23"
+    },
+    {
+      "name": "Auction Player1049",
+      "bid": "60.54"
+    },
+    {
+      "name": "Auction Player1050",
+      "bid": "42.57"
+    },
+    {
+      "name": "Auction Player1051",
+      "bid": "57.78"
+    },
+    {
+      "name": "Auction Player1052",
+      "bid": "56.38"
+    },
+    {
+      "name": "Auction Player1053",
+      "bid": "2.44"
+    },
+    {
+      "name": "Auction Player1054",
+      "bid": "74.91"
+    },
+    {
+      "name": "Auction Player1055",
+      "bid": "31.12"
+    },
+    {
+      "name": "Auction Player1056",
+      "bid": "56.7"
+    },
+    {
+      "name": "Auction Player1057",
+      "bid": "33.56"
+    },
+    {
+      "name": "Auction Player1058",
+      "bid": "82.37"
+    },
+    {
+      "name": "Auction Player1059",
+      "bid": "73.29"
+    },
+    {
+      "name": "Auction Player1060",
+      "bid": "38.75"
+    },
+    {
+      "name": "Auction Player1061",
+      "bid": "65.63"
+    },
+    {
+      "name": "Auction Player1062",
+      "bid": "59.49"
+    },
+    {
+      "name": "Auction Player1063",
+      "bid": "21.06"
+    },
+    {
+      "name": "Auction Player1064",
+      "bid": "59.56"
+    },
+    {
+      "name": "Auction Player1065",
+      "bid": "51.37"
+    },
+    {
+      "name": "Auction Player1066",
+      "bid": "16.5"
+    },
+    {
+      "name": "Auction Player1067",
+      "bid": "46.87"
+    },
+    {
+      "name": "Auction Player1068",
+      "bid": "27.08"
+    },
+    {
+      "name": "Auction Player1069",
+      "bid": "70.84"
+    },
+    {
+      "name": "Auction Player1070",
+      "bid": "76.22"
+    },
+    {
+      "name": "Auction Player1071",
+      "bid": "85.67"
+    },
+    {
+      "name": "Auction Player1072",
+      "bid": "7.59"
+    },
+    {
+      "name": "Auction Player1073",
+      "bid": "7.99"
+    },
+    {
+      "name": "Auction Player1074",
+      "bid": "53.84"
+    },
+    {
+      "name": "Auction Player1075",
+      "bid": "35.01"
+    },
+    {
+      "name": "Auction Player1076",
+      "bid": "77.68"
+    },
+    {
+      "name": "Auction Player1077",
+      "bid": "98.49"
+    },
+    {
+      "name": "Auction Player1078",
+      "bid": "12.54"
+    },
+    {
+      "name": "Auction Player1079",
+      "bid": "82.33"
+    },
+    {
+      "name": "Auction Player1080",
+      "bid": "64.48"
+    },
+    {
+      "name": "Auction Player1081",
+      "bid": "69.3"
+    },
+    {
+      "name": "Auction Player1082",
+      "bid": "46.28"
+    },
+    {
+      "name": "Auction Player1083",
+      "bid": "21.1"
+    },
+    {
+      "name": "Auction Player1084",
+      "bid": "40.85"
+    },
+    {
+      "name": "Auction Player1085",
+      "bid": "76.08"
+    },
+    {
+      "name": "Auction Player1086",
+      "bid": "54.19"
+    },
+    {
+      "name": "Auction Player1087",
+      "bid": "9.72"
+    },
+    {
+      "name": "Auction Player1088",
+      "bid": "67.65"
+    },
+    {
+      "name": "Auction Player1089",
+      "bid": "63.92"
+    },
+    {
+      "name": "Auction Player1090",
+      "bid": "84.17"
+    },
+    {
+      "name": "Auction Player1091",
+      "bid": "72.85"
+    },
+    {
+      "name": "Auction Player1092",
+      "bid": "76.29"
+    },
+    {
+      "name": "Auction Player1093",
+      "bid": "75.29"
+    },
+    {
+      "name": "Auction Player1094",
+      "bid": "68.96"
+    },
+    {
+      "name": "Auction Player1095",
+      "bid": "70.21"
+    },
+    {
+      "name": "Auction Player1096",
+      "bid": "23.38"
+    },
+    {
+      "name": "Auction Player1097",
+      "bid": "50.74"
+    },
+    {
+      "name": "Auction Player1098",
+      "bid": "11.9"
+    },
+    {
+      "name": "Auction Player1099",
+      "bid": "30.66"
+    },
+    {
+      "name": "Auction Player1100",
+      "bid": "20.59"
+    },
+    {
+      "name": "Auction Player1101",
+      "bid": "98.19"
+    },
+    {
+      "name": "Auction Player1102",
+      "bid": "70.49"
+    },
+    {
+      "name": "Auction Player1103",
+      "bid": "85.55"
+    },
+    {
+      "name": "Auction Player1104",
+      "bid": "46.73"
+    },
+    {
+      "name": "Auction Player1105",
+      "bid": "54.4"
+    },
+    {
+      "name": "Auction Player1106",
+      "bid": "99.08"
+    },
+    {
+      "name": "Auction Player1107",
+      "bid": "25.33"
+    },
+    {
+      "name": "Auction Player1108",
+      "bid": "4.84"
+    },
+    {
+      "name": "Auction Player1109",
+      "bid": "41.46"
+    },
+    {
+      "name": "Auction Player1110",
+      "bid": "8.51"
+    },
+    {
+      "name": "Auction Player1111",
+      "bid": "43.29"
+    },
+    {
+      "name": "Auction Player1112",
+      "bid": "97.48"
+    },
+    {
+      "name": "Auction Player1113",
+      "bid": "0.56"
+    },
+    {
+      "name": "Auction Player1114",
+      "bid": "48.39"
+    },
+    {
+      "name": "Auction Player1115",
+      "bid": "49.29"
+    },
+    {
+      "name": "Auction Player1116",
+      "bid": "33.37"
+    },
+    {
+      "name": "Auction Player1117",
+      "bid": "52.52"
+    },
+    {
+      "name": "Auction Player1118",
+      "bid": "44.86"
+    },
+    {
+      "name": "Auction Player1119",
+      "bid": "3.61"
+    },
+    {
+      "name": "Auction Player1120",
+      "bid": "62.87"
+    },
+    {
+      "name": "Auction Player1121",
+      "bid": "47.68"
+    },
+    {
+      "name": "Auction Player1122",
+      "bid": "99.86"
+    },
+    {
+      "name": "Auction Player1123",
+      "bid": "63.94"
+    },
+    {
+      "name": "Auction Player1124",
+      "bid": "72.01"
+    },
+    {
+      "name": "Auction Player1125",
+      "bid": "15.1"
+    },
+    {
+      "name": "Auction Player1126",
+      "bid": "70.92"
+    },
+    {
+      "name": "Auction Player1127",
+      "bid": "13.13"
+    },
+    {
+      "name": "Auction Player1128",
+      "bid": "82.25"
+    },
+    {
+      "name": "Auction Player1129",
+      "bid": "82.87"
+    },
+    {
+      "name": "Auction Player1130",
+      "bid": "48.37"
+    },
+    {
+      "name": "Auction Player1131",
+      "bid": "31.03"
+    },
+    {
+      "name": "Auction Player1132",
+      "bid": "17.29"
+    },
+    {
+      "name": "Auction Player1133",
+      "bid": "42.11"
+    },
+    {
+      "name": "Auction Player1134",
+      "bid": "95.29"
+    },
+    {
+      "name": "Auction Player1135",
+      "bid": "0.9"
+    },
+    {
+      "name": "Auction Player1136",
+      "bid": "50.89"
+    },
+    {
+      "name": "Auction Player1137",
+      "bid": "59.03"
+    },
+    {
+      "name": "Auction Player1138",
+      "bid": "71.76"
+    },
+    {
+      "name": "Auction Player1139",
+      "bid": "9.6"
+    },
+    {
+      "name": "Auction Player1140",
+      "bid": "14.29"
+    },
+    {
+      "name": "Auction Player1141",
+      "bid": "78.45"
+    },
+    {
+      "name": "Auction Player1142",
+      "bid": "5.7"
+    },
+    {
+      "name": "Auction Player1143",
+      "bid": "58.67"
+    },
+    {
+      "name": "Auction Player1144",
+      "bid": "36.18"
+    },
+    {
+      "name": "Auction Player1145",
+      "bid": "49.73"
+    },
+    {
+      "name": "Auction Player1146",
+      "bid": "89.27"
+    },
+    {
+      "name": "Auction Player1147",
+      "bid": "89.6"
+    },
+    {
+      "name": "Auction Player1148",
+      "bid": "77.33"
+    },
+    {
+      "name": "Auction Player1149",
+      "bid": "81.69"
+    },
+    {
+      "name": "Auction Player1150",
+      "bid": "66.8"
+    },
+    {
+      "name": "Auction Player1151",
+      "bid": "98.74"
+    },
+    {
+      "name": "Auction Player1152",
+      "bid": "20.49"
+    },
+    {
+      "name": "Auction Player1153",
+      "bid": "67.91"
+    },
+    {
+      "name": "Auction Player1154",
+      "bid": "39.41"
+    },
+    {
+      "name": "Auction Player1155",
+      "bid": "59.23"
+    },
+    {
+      "name": "Auction Player1156",
+      "bid": "56.03"
+    },
+    {
+      "name": "Auction Player1157",
+      "bid": "96.47"
+    },
+    {
+      "name": "Auction Player1158",
+      "bid": "39.8"
+    },
+    {
+      "name": "Auction Player1159",
+      "bid": "34.03"
+    },
+    {
+      "name": "Auction Player1160",
+      "bid": "49.79"
+    },
+    {
+      "name": "Auction Player1161",
+      "bid": "62.84"
+    },
+    {
+      "name": "Auction Player1162",
+      "bid": "61.95"
+    },
+    {
+      "name": "Auction Player1163",
+      "bid": "53.93"
+    },
+    {
+      "name": "Auction Player1164",
+      "bid": "5.21"
+    },
+    {
+      "name": "Auction Player1165",
+      "bid": "97.04"
+    },
+    {
+      "name": "Auction Player1166",
+      "bid": "49.22"
+    },
+    {
+      "name": "Auction Player1167",
+      "bid": "5.34"
+    },
+    {
+      "name": "Auction Player1168",
+      "bid": "98.34"
+    },
+    {
+      "name": "Auction Player1169",
+      "bid": "47.19"
+    },
+    {
+      "name": "Auction Player1170",
+      "bid": "11.76"
+    },
+    {
+      "name": "Auction Player1171",
+      "bid": "65.77"
+    },
+    {
+      "name": "Auction Player1172",
+      "bid": "54.06"
+    },
+    {
+      "name": "Auction Player1173",
+      "bid": "27.58"
+    },
+    {
+      "name": "Auction Player1174",
+      "bid": "36.32"
+    },
+    {
+      "name": "Auction Player1175",
+      "bid": "6.13"
+    },
+    {
+      "name": "Auction Player1176",
+      "bid": "74.07"
+    },
+    {
+      "name": "Auction Player1177",
+      "bid": "69.16"
+    },
+    {
+      "name": "Auction Player1178",
+      "bid": "62.23"
+    },
+    {
+      "name": "Auction Player1179",
+      "bid": "30.38"
+    },
+    {
+      "name": "Auction Player1180",
+      "bid": "54.71"
+    },
+    {
+      "name": "Auction Player1181",
+      "bid": "12.46"
+    },
+    {
+      "name": "Auction Player1182",
+      "bid": "67.57"
+    },
+    {
+      "name": "Auction Player1183",
+      "bid": "48.26"
+    },
+    {
+      "name": "Auction Player1184",
+      "bid": "89.66"
+    },
+    {
+      "name": "Auction Player1185",
+      "bid": "86.57"
+    },
+    {
+      "name": "Auction Player1186",
+      "bid": "11.82"
+    },
+    {
+      "name": "Auction Player1187",
+      "bid": "76.85"
+    },
+    {
+      "name": "Auction Player1188",
+      "bid": "0.39"
+    },
+    {
+      "name": "Auction Player1189",
+      "bid": "32.88"
+    },
+    {
+      "name": "Auction Player1190",
+      "bid": "93.88"
+    },
+    {
+      "name": "Auction Player1191",
+      "bid": "37.41"
+    },
+    {
+      "name": "Auction Player1192",
+      "bid": "60.14"
+    },
+    {
+      "name": "Auction Player1193",
+      "bid": "60.3"
+    },
+    {
+      "name": "Auction Player1194",
+      "bid": "3.87"
+    },
+    {
+      "name": "Auction Player1195",
+      "bid": "0.21"
+    },
+    {
+      "name": "Auction Player1196",
+      "bid": "38.97"
+    },
+    {
+      "name": "Auction Player1197",
+      "bid": "78.05"
+    },
+    {
+      "name": "Auction Player1198",
+      "bid": "17.76"
+    },
+    {
+      "name": "Auction Player1199",
+      "bid": "29.96"
+    },
+    {
+      "name": "Auction Player1200",
+      "bid": "39.2"
+    }
+  ]
+}

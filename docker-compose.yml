@@ -1,0 +1,11 @@
+version: '3'
+services:
+  rectangle:
+    image: 'pedrotfs/lesseruniquebid:1.0.0'
+    ports:
+      - 8080:8080
+    networks:
+      - app-connect
+networks:
+  app-connect:
+    driver: bridge

@@ -1,0 +1,79 @@
+{
+	"info": {
+		"_postman_id": "7ca22677-f9d5-40c2-a1eb-2d25a9f967d4",
+		"name": "auction",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "bid",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"bids\": [\n    {\n      \"name\":\"Joao\",\n      \"bid\": \"0.01\"\n    },\n    {\n      \"name\":\"Maria\",\n      \"bid\": \"0.3\"\n    },\n    {\n      \"name\":\"Renata\",\n      \"bid\": \"0.01\"\n    },\n    {\n      \"name\":\"Pedro\",\n      \"bid\": \"12.34\"\n    }\n  ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/auction/bid",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"auction",
+						"bid"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getWinner",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/auction/lowest",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"auction",
+						"lowest"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getAllBids",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/auction/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"auction",
+						"all"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
